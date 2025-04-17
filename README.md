@@ -31,7 +31,7 @@
 bashgpt/
 ├── install_env.sh         # Installer script for dependencies and environment setup (Ubuntu-specific)
 └── scripts/               # Directory containing various bash scripts powered by ChatGPT
-    ├── run_bench_avg      # Example script: runs a benchmark executable 10 times and averages the results using ChatGPT
+    ├── bavg      # Example script: runs a benchmark executable 24 times and averages the results using ChatGPT
     └── new_script         # Placeholder for future scripts
 ```
 
